@@ -1,0 +1,119 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AirlineWebDevIcons	plugin/webdevicons.vim	/^function! AirlineWebDevIcons(...)$/;"	f
+Base	rplugin/python3/denite/filter/devicons_denite_converter.py	/^from .base import Base$/;"	i
+CursorHoldUpdate	plugin/webdevicons.vim	/^function! s:CursorHoldUpdate()$/;"	f
+Filter	rplugin/python3/denite/filter/devicons_denite_converter.py	/^class Filter(Base):$/;"	c
+NERDTreeWebDevIconsRefreshListener	plugin/webdevicons.vim	/^function! NERDTreeWebDevIconsRefreshListener(event)$/;"	f
+Refresh	nerdtree_plugin/webdevicons.vim	/^function! s:Refresh()$/;"	f
+SetupListeners	nerdtree_plugin/webdevicons.vim	/^function! s:SetupListeners()$/;"	f
+WebDevIconsGetFileFormatSymbol	plugin/webdevicons.vim	/^function! WebDevIconsGetFileFormatSymbol(...)$/;"	f
+WebDevIconsGetFileTypeSymbol	plugin/webdevicons.vim	/^function! WebDevIconsGetFileTypeSymbol(...)$/;"	f
+WebDevIconsNERDTreeChangeRootHandler	nerdtree_plugin/webdevicons.vim	/^function! WebDevIconsNERDTreeChangeRootHandler(node)$/;"	f
+WebDevIconsNERDTreeDirClose	nerdtree_plugin/webdevicons.vim	/^function! WebDevIconsNERDTreeDirClose(node)$/;"	f
+WebDevIconsNERDTreeDirCloseChildren	nerdtree_plugin/webdevicons.vim	/^function! WebDevIconsNERDTreeDirCloseChildren(node)$/;"	f
+WebDevIconsNERDTreeDirCloseRecursively	nerdtree_plugin/webdevicons.vim	/^function! WebDevIconsNERDTreeDirCloseRecursively(node)$/;"	f
+WebDevIconsNERDTreeDirOpen	nerdtree_plugin/webdevicons.vim	/^function! WebDevIconsNERDTreeDirOpen(node)$/;"	f
+WebDevIconsNERDTreeDirOpenRecursively	nerdtree_plugin/webdevicons.vim	/^function! WebDevIconsNERDTreeDirOpenRecursively(node)$/;"	f
+WebDevIconsNERDTreeDirUpdateFlags	nerdtree_plugin/webdevicons.vim	/^function! WebDevIconsNERDTreeDirUpdateFlags(node, glyph)$/;"	f
+WebDevIconsNERDTreeMapActivateNode	nerdtree_plugin/webdevicons.vim	/^function! WebDevIconsNERDTreeMapActivateNode(node)$/;"	f
+WebDevIconsNERDTreeMapCloseChildren	nerdtree_plugin/webdevicons.vim	/^function! WebDevIconsNERDTreeMapCloseChildren(node)$/;"	f
+WebDevIconsNERDTreeMapCloseDir	nerdtree_plugin/webdevicons.vim	/^function! WebDevIconsNERDTreeMapCloseDir(node)$/;"	f
+WebDevIconsNERDTreeMapOpenRecursively	nerdtree_plugin/webdevicons.vim	/^function! WebDevIconsNERDTreeMapOpenRecursively(node)$/;"	f
+WebDevIconsNERDTreeMapUpdirKeepOpen	nerdtree_plugin/webdevicons.vim	/^function! WebDevIconsNERDTreeMapUpdirKeepOpen()$/;"	f
+WebDevIconsNERDTreeUpDirCurrentRootClosedHandler	nerdtree_plugin/webdevicons.vim	/^function! WebDevIconsNERDTreeUpDirCurrentRootClosedHandler()$/;"	f
+__init__	rplugin/python3/denite/filter/devicons_denite_converter.py	/^	def __init__(self, vim):$/;"	m	class:Filter
+absolute_import	pythonx/vim_devicons/powerline/segments.py	/^from __future__ import (unicode_literals, division, absolute_import, print_function)$/;"	i
+airline#extensions#tabline#formatters#webdevicons#format	autoload/airline/extensions/tabline/formatters/webdevicons.vim	/^function! airline#extensions#tabline#formatters#webdevicons#format(bufnr, buffers)$/;"	f
+buffer_name	pythonx/vim_devicons/powerline/segments.py	/^from powerline.bindings.vim import (vim_get_func, buffer_name)$/;"	i
+column.define_syntax	autoload/vimfiler/columns/devicons.vim	/^function! s:column.define_syntax(context) "{{{$/;"	f
+column.get	autoload/vimfiler/columns/devicons.vim	/^function! s:column.get(file, context)$/;"	f
+column.length	autoload/vimfiler/columns/devicons.vim	/^function! s:column.length(files, context)$/;"	f
+division	pythonx/vim_devicons/powerline/segments.py	/^from __future__ import (unicode_literals, division, absolute_import, print_function)$/;"	i
+filter	rplugin/python3/denite/filter/devicons_denite_converter.py	/^	def filter(self, context):$/;"	m	class:Filter
+g:DevIconsAppendArtifactFix	plugin/webdevicons.vim	/^    let g:DevIconsAppendArtifactFix = 0$/;"	v
+g:DevIconsAppendArtifactFix	plugin/webdevicons.vim	/^    let g:DevIconsAppendArtifactFix = 1$/;"	v
+g:DevIconsArtifactFixChar	plugin/webdevicons.vim	/^  let g:DevIconsArtifactFixChar = "\\u00A0"$/;"	v
+g:DevIconsDefaultFolderOpenSymbol	plugin/webdevicons.vim	/^  let g:DevIconsDefaultFolderOpenSymbol = '📂'$/;"	v
+g:DevIconsEnableFolderExtensionPatternMatching	nerdtree_plugin/webdevicons.vim	/^  let g:DevIconsEnableFolderExtensionPatternMatching = 0$/;"	v
+g:DevIconsEnableFolderExtensionPatternMatching	plugin/webdevicons.vim	/^  let g:DevIconsEnableFolderExtensionPatternMatching = 0$/;"	v
+g:DevIconsEnableFolderPatternMatching	nerdtree_plugin/webdevicons.vim	/^  let g:DevIconsEnableFolderPatternMatching = 1$/;"	v
+g:DevIconsEnableFolderPatternMatching	plugin/webdevicons.vim	/^  let g:DevIconsEnableFolderPatternMatching = 1$/;"	v
+g:DevIconsEnableFoldersOpenClose	nerdtree_plugin/webdevicons.vim	/^  let g:DevIconsEnableFoldersOpenClose = 0$/;"	v
+g:DevIconsEnableFoldersOpenClose	plugin/webdevicons.vim	/^  let g:DevIconsEnableFoldersOpenClose = 0$/;"	v
+g:DevIconsEnableNERDTreeRedraw	nerdtree_plugin/webdevicons.vim	/^    let g:DevIconsEnableNERDTreeRedraw = 0$/;"	v
+g:DevIconsEnableNERDTreeRedraw	nerdtree_plugin/webdevicons.vim	/^    let g:DevIconsEnableNERDTreeRedraw = 1$/;"	v
+g:NERDTreeUpdateOnCursorHold	plugin/webdevicons.vim	/^  let g:NERDTreeUpdateOnCursorHold = 1$/;"	v
+g:WebDevIconsNerdTreeAfterGlyphPadding	plugin/webdevicons.vim	/^  let g:WebDevIconsNerdTreeAfterGlyphPadding = ' '$/;"	v
+g:WebDevIconsNerdTreeBeforeGlyphPadding	plugin/webdevicons.vim	/^  let g:WebDevIconsNerdTreeBeforeGlyphPadding = ' '$/;"	v
+g:WebDevIconsNerdTreeGitPluginForceVAlign	plugin/webdevicons.vim	/^  let g:WebDevIconsNerdTreeGitPluginForceVAlign = 1$/;"	v
+g:WebDevIconsUnicodeByteOrderMarkerDefaultSymbol	plugin/webdevicons.vim	/^  let g:WebDevIconsUnicodeByteOrderMarkerDefaultSymbol = ''$/;"	v
+g:WebDevIconsUnicodeDecorateFileNodes	plugin/webdevicons.vim	/^  let g:WebDevIconsUnicodeDecorateFileNodes = 1$/;"	v
+g:WebDevIconsUnicodeDecorateFileNodesDefaultSymbol	plugin/webdevicons.vim	/^  let g:WebDevIconsUnicodeDecorateFileNodesDefaultSymbol = '📄'$/;"	v
+g:WebDevIconsUnicodeDecorateFolderNodes	plugin/webdevicons.vim	/^  let g:WebDevIconsUnicodeDecorateFolderNodes = 0$/;"	v
+g:WebDevIconsUnicodeDecorateFolderNodesDefaultSymbol	plugin/webdevicons.vim	/^    let g:WebDevIconsUnicodeDecorateFolderNodesDefaultSymbol = ''$/;"	v
+g:WebDevIconsUnicodeDecorateFolderNodesDefaultSymbol	plugin/webdevicons.vim	/^    let g:WebDevIconsUnicodeDecorateFolderNodesDefaultSymbol = '📁'$/;"	v
+g:WebDevIconsUnicodeDecorateFolderNodesExactMatches	plugin/webdevicons.vim	/^  let g:WebDevIconsUnicodeDecorateFolderNodesExactMatches = 1$/;"	v
+g:WebDevIconsUnicodeDecorateFolderNodesSymlinkSymbol	plugin/webdevicons.vim	/^  let g:WebDevIconsUnicodeDecorateFolderNodesSymlinkSymbol =  '🔗'$/;"	v
+g:WebDevIconsUnicodeGlyphDoubleWidth	plugin/webdevicons.vim	/^  let g:WebDevIconsUnicodeGlyphDoubleWidth = 1$/;"	v
+g:_webdevicons_airline_orig_formatter	plugin/webdevicons.vim	/^    let g:_webdevicons_airline_orig_formatter = 'default'$/;"	v
+g:_webdevicons_airline_orig_formatter	plugin/webdevicons.vim	/^    let g:_webdevicons_airline_orig_formatter = g:airline#extensions#tabline#formatter$/;"	v
+g:airline#extensions#tabline#formatter	plugin/webdevicons.vim	/^  let g:airline#extensions#tabline#formatter = 'webdevicons'$/;"	v
+g:loaded_webdevicons	plugin/webdevicons.vim	/^let g:loaded_webdevicons = 1$/;"	v
+g:webdevicons_conceal_nerdtree_brackets	plugin/webdevicons.vim	/^  let g:webdevicons_conceal_nerdtree_brackets = 1$/;"	v
+g:webdevicons_enable	nerdtree_plugin/webdevicons.vim	/^  let g:webdevicons_enable = 1$/;"	v
+g:webdevicons_enable	plugin/webdevicons.vim	/^  let g:webdevicons_enable = 1$/;"	v
+g:webdevicons_enable_airline_statusline	nerdtree_plugin/webdevicons.vim	/^  let g:webdevicons_enable_airline_statusline = 1$/;"	v
+g:webdevicons_enable_airline_statusline	plugin/webdevicons.vim	/^  let g:webdevicons_enable_airline_statusline = 1$/;"	v
+g:webdevicons_enable_airline_statusline_fileformat_symbols	plugin/webdevicons.vim	/^  let g:webdevicons_enable_airline_statusline_fileformat_symbols = 1$/;"	v
+g:webdevicons_enable_airline_tabline	nerdtree_plugin/webdevicons.vim	/^  let g:webdevicons_enable_airline_tabline = 1$/;"	v
+g:webdevicons_enable_airline_tabline	plugin/webdevicons.vim	/^  let g:webdevicons_enable_airline_tabline = 1$/;"	v
+g:webdevicons_enable_ctrlp	plugin/webdevicons.vim	/^  let g:webdevicons_enable_ctrlp = 1$/;"	v
+g:webdevicons_enable_denite	plugin/webdevicons.vim	/^  let g:webdevicons_enable_denite = 1$/;"	v
+g:webdevicons_enable_flagship_statusline	plugin/webdevicons.vim	/^  let g:webdevicons_enable_flagship_statusline = 1$/;"	v
+g:webdevicons_enable_flagship_statusline_fileformat_symbols	plugin/webdevicons.vim	/^  let g:webdevicons_enable_flagship_statusline_fileformat_symbols = 1$/;"	v
+g:webdevicons_enable_nerdtree	nerdtree_plugin/webdevicons.vim	/^     let g:webdevicons_enable_nerdtree = 0$/;"	v
+g:webdevicons_enable_nerdtree	nerdtree_plugin/webdevicons.vim	/^  let g:webdevicons_enable_nerdtree = 1$/;"	v
+g:webdevicons_enable_nerdtree	plugin/webdevicons.vim	/^  let g:webdevicons_enable_nerdtree = 1$/;"	v
+g:webdevicons_enable_unite	plugin/webdevicons.vim	/^  let g:webdevicons_enable_unite = 1$/;"	v
+g:webdevicons_enable_vimfiler	plugin/webdevicons.vim	/^  let g:webdevicons_enable_vimfiler = 1$/;"	v
+g:webdevicons_gui_glyph_fix	nerdtree_plugin/webdevicons.vim	/^    let g:webdevicons_gui_glyph_fix = 0$/;"	v
+g:webdevicons_gui_glyph_fix	nerdtree_plugin/webdevicons.vim	/^    let g:webdevicons_gui_glyph_fix = 1$/;"	v
+hardRefreshNerdTree	plugin/webdevicons.vim	/^function! s:hardRefreshNerdTree()$/;"	f
+initialize	plugin/webdevicons.vim	/^function! s:initialize()$/;"	f
+initializeCtrlP	plugin/webdevicons.vim	/^function! s:initializeCtrlP()$/;"	f
+initializeDenite	plugin/webdevicons.vim	/^function! s:initializeDenite()$/;"	f
+initializeFlagship	plugin/webdevicons.vim	/^function! s:initializeFlagship()$/;"	f
+initializeUnite	plugin/webdevicons.vim	/^function! s:initializeUnite()$/;"	f
+initializeVimfiler	plugin/webdevicons.vim	/^function! s:initializeVimfiler()$/;"	f
+isDarwin	plugin/webdevicons.vim	/^function s:isDarwin()$/;"	f
+isdir	rplugin/python3/denite/filter/devicons_denite_converter.py	/^from os.path import isdir$/;"	i
+pkg_resources	pythonx/vim_devicons/__init__.py	/^import pkg_resources$/;"	i
+pkg_resources	pythonx/vim_devicons/powerline/__init__.py	/^import pkg_resources$/;"	i
+print_function	pythonx/vim_devicons/powerline/segments.py	/^from __future__ import (unicode_literals, division, absolute_import, print_function)$/;"	i
+requires_segment_info	pythonx/vim_devicons/powerline/segments.py	/^from powerline.theme import requires_segment_info$/;"	i
+s:column	autoload/vimfiler/columns/devicons.vim	/^let s:column = {$/;"	v
+s:plugin_home	plugin/webdevicons.vim	/^let s:plugin_home = expand('<sfile>:p:h:h')$/;"	v
+s:save_cpo	autoload/vimfiler/columns/devicons.vim	/^let s:save_cpo = &cpo$/;"	v
+s:save_cpo	plugin/webdevicons.vim	/^let s:save_cpo = &cpo$/;"	v
+s:version	plugin/webdevicons.vim	/^let s:version = '0.00.1'$/;"	v
+setCursorHold	plugin/webdevicons.vim	/^function! s:setCursorHold()$/;"	f
+setDictionaries	plugin/webdevicons.vim	/^function! s:setDictionaries()$/;"	f
+setSyntax	plugin/webdevicons.vim	/^function! s:setSyntax()$/;"	f
+softRefreshNerdTree	plugin/webdevicons.vim	/^function! s:softRefreshNerdTree()$/;"	f
+strip	plugin/webdevicons.vim	/^function! s:strip(input)$/;"	f
+unicode_literals	pythonx/vim_devicons/powerline/segments.py	/^from __future__ import (unicode_literals, division, absolute_import, print_function)$/;"	i
+vim	pythonx/vim_devicons/powerline/segments.py	/^	import vim$/;"	i
+vim	pythonx/vim_devicons/powerline/segments.py	/^	vim = {}$/;"	v
+vim_get_func	pythonx/vim_devicons/powerline/segments.py	/^from powerline.bindings.vim import (vim_get_func, buffer_name)$/;"	i
+vimfiler#columns#devicons#define	autoload/vimfiler/columns/devicons.vim	/^function! vimfiler#columns#devicons#define()$/;"	f
+webdevicons	pythonx/vim_devicons/powerline/segments.py	/^def webdevicons(pl, segment_info):$/;"	f
+webdevicons#hardRefresh	plugin/webdevicons.vim	/^function! webdevicons#hardRefresh()$/;"	f
+webdevicons#refresh	plugin/webdevicons.vim	/^function! webdevicons#refresh()$/;"	f
+webdevicons#softRefresh	plugin/webdevicons.vim	/^function! webdevicons#softRefresh()$/;"	f
+webdevicons#version	plugin/webdevicons.vim	/^function! webdevicons#version()$/;"	f
+webdevicons_file_format	pythonx/vim_devicons/powerline/segments.py	/^def webdevicons_file_format(pl, segment_info):$/;"	f
