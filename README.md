@@ -38,7 +38,7 @@ Installation
 
 1. Install `emojione` from your package manager
   - Arch/Manjaro
-    `sudo yaourt -S tff-emojione --noconfirm`
+    `sudo yaourt -S ttf-emojione --noconfirm`
 
 1. Using your system package manager update/download the lastest version of cairo
   - Arch/Manjaro
